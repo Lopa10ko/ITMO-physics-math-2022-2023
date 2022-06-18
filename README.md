@@ -1,3 +1,6 @@
+## Физика
+[Задания после лекции](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/hw)
+
 | | LAB      |     LINKS     |
 |-|----------|-------------|
 |***PhysLab1***|[lab_1.01](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/labs/Lab_1_01.pdf)|<ul><li>[lab (report)](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/labs/M3102_Лопатенко%20Г.В._1.01.pdf)</li></ul>|
