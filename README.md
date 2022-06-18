@@ -1,5 +1,4 @@
-## Физика
-[Задания после лекции](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/hw)
+## Trash bin for math and physics (2sem)
 
 | | LAB      |     LINKS     |
 |-|----------|-------------|
