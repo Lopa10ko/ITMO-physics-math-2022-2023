@@ -1,4 +1,4 @@
-## Trash bin for math and physics (2sem)
+# Physics (2sem)
 
 | | LAB      |     LINKS     |
 |-|----------|-------------|
