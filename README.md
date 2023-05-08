@@ -9,7 +9,7 @@
 |***s4lab4***|[lab_IBM.1](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/4sem/labs/IBM.pdf)|<ul><li>[lab (report)](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/4sem/labs/M32021_Лопатенко_IBM1.pdf)</li></ul>|
 |***s4lab5***|[lab_IBM.2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)|<ul><li>[lab (report)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</li></ul>|
   
-<code><b>Physics (3 sem, Electromagnetism, Optics)</b></code>
+<code><b>Physics (3 sem: Electromagnetism, Optics)</b></code>
 | | LAB |     LINKS     |
 |:---------------:|:---------------:|:---------------:|
 |***s3lab1***|[lab_3.00](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/3sem/labs/Lab_3_00_GDS.pdf)| <ul><li>[lab (report)](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/blob/main/physics/3sem/labs/M32021_Лопатенко%20Г.В._3.00.pdf)</li><li>[lab_data (data)](https://github.com/Lopa10ko/ITMO-physics-math-2022-2023/tree/main/physics/3sem/labs_data/data_lab3_00)</li></ul>|
