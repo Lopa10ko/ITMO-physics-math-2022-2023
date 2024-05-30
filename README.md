@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bin/filthycheaters.jpg" height="50%" width="50%">
+  <img src="./assets/banner.png" width="100%">
 </div>
 
 ---
